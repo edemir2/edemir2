@@ -1,16 +1,26 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **edemir2/edemir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 A dedicated CS undergraduate enrolled in the Dual Diploma Program at Istanbul Technical University and Binghamton University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Currently working on enhancing my Java backend development skills through hands-on projects and internships.
+
+👨‍💻 Proficient in multiple programming languages, such as Java, C, C++, and Python.
+
+📚 Learning advanced algorithms and data structures to deepen my understanding of efficient coding practices.
+
+🤝 I’m looking to collaborate on open-source projects, particularly those focused on Java, C++, or Python applications.
+
+🌍 Fun fact: I love exploring new cultures and cuisines, which aligns well with my passion for software development – both involve discovering diverse and innovative ways of doing things!
+
+Looking forward to connecting and collaborating with like-minded individuals in the tech community!
+
 -->
+
+### Let's Connect
+
+I'm enthusiastic about collaboration and always eager to learn from others, fostering both my coding journey and curiosity. Don't hesitate to contact me via email or connect with me on LinkedIn.
+
+Keep exploring and coding! 👩‍💻🚀🔍
