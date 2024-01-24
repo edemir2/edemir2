@@ -2,6 +2,7 @@
 
 <!--
 **edemir2/edemir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 🎓 A dedicated CS undergraduate enrolled in the Dual Diploma Program at Istanbul Technical University and Binghamton University.
 
@@ -17,7 +18,7 @@
 
 Looking forward to connecting and collaborating with like-minded individuals in the tech community!
 
--->
+
 
 ### Let's Connect
 
