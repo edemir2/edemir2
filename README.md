@@ -2,9 +2,9 @@
 
 ---
 
-- 🎓 A dedicated CS undergraduate enrolled in the Dual Diploma Program at Istanbul Technical University and Binghamton University.
-- 💻 Currently working on enhancing my Java backend development skills through hands-on projects and internships.
-- 👨‍💻 Proficient in multiple programming languages, such as Java, C, C++, and Python.
+- 🎓 A dedicated senior CS undergraduate enrolled in the Dual Diploma Program at Istanbul Technical University and Binghamton University.
+- 💻 Currently working on enhancing my Java backend development skills through hands-on projects and internships, especially with Spring Boot.
+- 👨‍💻 Proficient in Java and familiar with Python, C++, and C.
 - 📚 Learning advanced algorithms and data structures to deepen my understanding of efficient coding practices.
 - 🤝 I’m looking to collaborate on open-source projects, particularly those focused on Java, C++, or Python applications.
 - 🌍 Fun fact: I love exploring new cultures and cuisines, which aligns well with my passion for software development – both involve discovering diverse and innovative ways of doing things!
