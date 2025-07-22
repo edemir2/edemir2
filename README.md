@@ -2,12 +2,12 @@
 
 ---
 
-- 🎓 A dedicated senior CS undergraduate enrolled in the Dual Diploma Program at Istanbul Technical University and Binghamton University.
-- 💻 Currently working on enhancing my Java backend development skills through hands-on projects and internships, especially with Spring Boot.
-- 👨‍💻 Proficient in Java and familiar with Python, C++, and C.
-- 📚 Learning advanced algorithms and data structures to deepen my understanding of efficient coding practices.
-- 🤝 I’m looking to collaborate on open-source projects, particularly those focused on Java, C++, or Python applications.
-- 🌍 Fun fact: I love exploring new cultures and cuisines, which aligns well with my passion for software development – both involve discovering diverse and innovative ways of doing things!
+- 🎓 Recent Computer Science graduate from the Dual Diploma Program at Istanbul Technical University and Binghamton University (May 2025).
+- 🧠 Currently working on a personal voice agent project, integrating backend logic, speech technologies, and real-time interaction pipelines.
+- 💻 Previously interned at Mirabito Energy Products, where I built robust APIs and implemented AI-based recommendation systems.
+- 👨‍💻 Strong background in Java and Spring Boot, with additional experience in Python, C++, C, and C#/.NET.
+- 🎯 Working on Multi-Agent Systems (MAS) to further specialize in intelligent, distributed decision-making systems.
+- 🌍 I’m passionate about cross-cultural experiences—whether through code or cuisine—and always curious to explore new approaches to problem-solving.
 
 
 
